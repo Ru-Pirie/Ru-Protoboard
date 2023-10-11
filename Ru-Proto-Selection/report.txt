@@ -1,0 +1,12 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'C:\Users\ruben\Documents\Programming\Ru-PerfBoard\Ru-PerfBoard\Ru-PerfBoard-F_Cu.gbr'.
+Plotted to 'C:\Users\ruben\Documents\Programming\Ru-PerfBoard\Ru-PerfBoard\Ru-PerfBoard-B_Cu.gbr'.
+Plotted to 'C:\Users\ruben\Documents\Programming\Ru-PerfBoard\Ru-PerfBoard\Ru-PerfBoard-F_Paste.gbr'.
+Plotted to 'C:\Users\ruben\Documents\Programming\Ru-PerfBoard\Ru-PerfBoard\Ru-PerfBoard-B_Paste.gbr'.
+Plotted to 'C:\Users\ruben\Documents\Programming\Ru-PerfBoard\Ru-PerfBoard\Ru-PerfBoard-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\ruben\Documents\Programming\Ru-PerfBoard\Ru-PerfBoard\Ru-PerfBoard-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\ruben\Documents\Programming\Ru-PerfBoard\Ru-PerfBoard\Ru-PerfBoard-F_Mask.gbr'.
+Plotted to 'C:\Users\ruben\Documents\Programming\Ru-PerfBoard\Ru-PerfBoard\Ru-PerfBoard-B_Mask.gbr'.
+Plotted to 'C:\Users\ruben\Documents\Programming\Ru-PerfBoard\Ru-PerfBoard\Ru-PerfBoard-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\ruben\Documents\Programming\Ru-PerfBoard\Ru-PerfBoard\Ru-PerfBoard-job.gbrjob'.
+Info: Done.
